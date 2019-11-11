@@ -1,4 +1,4 @@
-{% extends 'base.html' %}
+{% extends 'base.dhtml' %}
 {% block content %}
 {% for album in albums %}
     <div class="card m-5">
